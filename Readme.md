@@ -1,4 +1,4 @@
-# Linear regression Implementation
+# Simple Linear regression Implementation
 Salary DataSet with Years Of Experince against Salary Amount
 ## Cost function 
 - Mean Square = 1/m ((m*x +b) -y)^2
